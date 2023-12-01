@@ -1,0 +1,42 @@
+Name: Yuhang Xiao
+USC ID: 6913860906
+News site crawled: nytimes.com
+Number of threads: 16
+
+Fetch Statistics
+================
+fetches attempted: 19999
+fetches succeeded: 13452
+fetches failed or aborted: 6547
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2522023
+# unique URLs extracted: 1056528
+# unique URLs within News Site: 956342
+# unique URLs outside News Site: 100186
+
+Status Codes:
+=============
+200 OK: 13452
+301 Moved Permanently: 360
+302 Found: 6175
+400 Bad Request: 1
+403 Forbidden: 2
+404 Not Found: 7
+500 Internal Server Error: 2
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 18
+10KB ~ <100KB: 2377
+100KB ~ <1MB: 10813
+>= 1MB: 216
+
+Content Types:
+==============
+application/pdf: 3
+image/png: 12
+image/svg+xml: 6
+text/html: 13404

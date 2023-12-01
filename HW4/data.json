@@ -1,0 +1,52 @@
+[
+    {
+      "School": "USC Viterbi School of Engineering",
+      "CourseName": "CSCI 103L: Introduction to Programming",
+      "CourseDesc": "An introductory course in programming, covering basic concepts such as data structures and object-oriented design."
+    },
+    {
+      "School": "USC Viterbi School of Engineering",
+      "CourseName": "EE 450: Introduction to Computer Networks",
+      "CourseDesc": "Explores the principles and protocols of computer networks, including the internet and network architectures."
+    },
+    {
+      "School": "USC Dornsife College of Letters, Arts and Sciences",
+      "CourseName": "PSYC 100: Introduction to Psychology",
+      "CourseDesc": "An overview of the field of psychology, including its major subfields and the study of behavior and mental processes."
+    },
+    {
+      "School": "USC School of Cinematic Arts",
+      "CourseName": "CTPR 310: Intermediate Cinematography",
+      "CourseDesc": "Explores the artistic and technical aspects of cinematography, including camera operation, lighting, and visual storytelling."
+    },
+    {
+      "School": "USC Annenberg School for Communication and Journalism",
+      "CourseName": "COMM 200: Communication and Social Science",
+      "CourseDesc": "Examines the role of communication in society, including theories and research in communication and media studies."
+    },
+    {
+      "School": "USC Viterbi School of Engineering",
+      "CourseName": "CSCI 104L: Data Structures and Object Oriented Design",
+      "CourseDesc": "Advanced course focusing on data structures, algorithms, and object-oriented programming design and principles."
+    },
+    {
+      "School": "USC Thornton School of Music",
+      "CourseName": "MUSC 255: Introduction to Electronic Music",
+      "CourseDesc": "Covers the basics of electronic music, including sound synthesis, audio engineering, and music production techniques."
+    },
+    {
+      "School": "USC Roski School of Art and Design",
+      "CourseName": "FADN 101: Design Fundamentals",
+      "CourseDesc": "Introduces the principles of design, visual literacy, and the creative process in art and design."
+    },
+    {
+      "School": "USC School of Architecture",
+      "CourseName": "ARCH 102: Architectural Design I",
+      "CourseDesc": "Focuses on the fundamentals of architectural design, spatial concepts, and form generation."
+    },
+    {
+      "School": "USC Dornsife College of Letters, Arts and Sciences",
+      "CourseName": "DSCI 102: Introduction to Data Science",
+      "CourseDesc": "Covers the basics of data science, including data analysis, visualization, and applications in various fields."
+    }
+]
